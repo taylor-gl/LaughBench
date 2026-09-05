@@ -41,9 +41,9 @@ joke generation to mitigate this issue.
 
 ## Example results
 
-![Laughs per model — all four bars at zero](example_chart.png)
+![Laughs per model — all five bars at zero](example_chart.png)
 
-One run, one rater (the author), four models:
+One run, one rater (the author), five models:
 
 | Model | Score |
 |---|---|
@@ -51,8 +51,9 @@ One run, one rater (the author), four models:
 | Claude Opus 5 | 0/10 |
 | Claude Fable 5 | 0/10 |
 | GPT-5.6 Sol Pro | 0/10 |
+| GPT-6 Astra | 0/20 |
 
-No model produced a single laugh. GPT-5.6 Sol Pro and Fable each managed a smile or two, which the smaller models never did.
+No model produced a single laugh. GPT-5.6 Sol Pro, GPT-6 Astra, and Fable each managed a smile or two, which the smaller models never did.
 
 ## Setup
 
